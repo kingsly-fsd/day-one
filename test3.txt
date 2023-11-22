@@ -1,3 +1,4 @@
 this is teste.txt file
 day two checking how its going
 today i dont know what to do so im simpling writing this
+today date 22/11/23
